@@ -30,4 +30,9 @@
   font-size: 14px;
   line-height: 19px;
   color: #6A983C;
+  transition: opacity 0.2s ease;
+
+  &:hover{
+    opacity: 0.7;
+  }
 }

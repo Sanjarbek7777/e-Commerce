@@ -829,5 +829,11 @@ img {
   font-size: 14px;
   line-height: 19px;
   color: #6A983C;
+  -webkit-transition: opacity 0.2s ease;
+  transition: opacity 0.2s ease;
+}
+
+.site-footer__top-link:hover {
+  opacity: 0.7;
 }
 /*# sourceMappingURL=main.css.map */
