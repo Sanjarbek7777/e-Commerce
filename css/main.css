@@ -441,10 +441,6 @@ img {
   margin-right: auto;
 }
 
-.site-nav {
-  background-color: #ffffff;
-}
-
 .site-nav__content--wrapper {
   display: -webkit-box;
   display: -ms-flexbox;
