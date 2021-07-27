@@ -749,4 +749,22 @@ img {
 .products-link:hover {
   opacity: 0.7;
 }
+
+.button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.button-people {
+  margin-left: 20px;
+  margin-right: 38px;
+}
+
+@media only screen and (min-width: 850px) {
+  .button-people {
+    margin-left: 20px;
+    margin-right: 38px;
+  }
+}
 /*# sourceMappingURL=main.css.map */
